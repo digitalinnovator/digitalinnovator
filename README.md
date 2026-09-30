@@ -102,7 +102,6 @@ My work spans generative and agentic AI, model training on custom datasets, comp
 | [comfyui-production-workflows](https://github.com/digitalinnovator/comfyui-production-workflows) | 12 production-tested ComfyUI workflows — AI UGC videos, trend copying, character generation, music, voice cloning and more |
 | [comfyui-content-factory](https://github.com/digitalinnovator/comfyui-content-factory) | Autonomous AI content pipeline — consistent characters, pose-controlled scenes and production-ready video assets using ComfyUI, ControlNet, IPAdapter and multi-LoRA |
 | [shopify-ai-art-personalization-app](https://github.com/digitalinnovator/shopify-ai-art-personalization-app) | Shopify app for AI-personalized products — customers upload a photo, preview AI art and buy. Supports OpenAI GPT Image, Gemini, FLUX and fal.ai |
-| [pqc-mail-proxy](https://github.com/digitalinnovator/pqc-mail-proxy) | Transparent SMTP/IMAP/POP3 proxy with end-to-end post-quantum encryption — ML-KEM-1024, AES-256-GCM and Double Ratchet |
 | [pqc-iot-analyzer](https://github.com/digitalinnovator/pqc-iot-analyzer) | Rust CLI that analyzes IoT protocol traffic (CoAP, MQTT, RPL) and assesses post-quantum readiness against NIST FIPS 203/204 |
 | [ai-robust-iot-ids](https://github.com/digitalinnovator/ai-robust-iot-ids) | Adversarial robustness evaluation of ML-based intrusion detection for IoT — FGSM, PGD and C&W attacks with adversarial training and ensemble defenses |
 
