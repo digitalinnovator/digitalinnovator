@@ -99,6 +99,7 @@ My work spans generative and agentic AI, model training on custom datasets, comp
 
 | Project | What it is |
 | --- | --- |
+| [pinbench](https://github.com/digitalinnovator/pinbench) | Regression monitor for coding agents — re-runs your own tasks against pinned versions of Claude Code or Codex and flags when an update makes the agent worse or pricier, with anytime-valid statistics, cost intervals and a hard spending ledger |
 | [comfyui-production-workflows](https://github.com/digitalinnovator/comfyui-production-workflows) | 12 production-tested ComfyUI workflows — AI UGC videos, trend copying, character generation, music, voice cloning and more |
 | [comfyui-content-factory](https://github.com/digitalinnovator/comfyui-content-factory) | Autonomous AI content pipeline — consistent characters, pose-controlled scenes and production-ready video assets using ComfyUI, ControlNet, IPAdapter and multi-LoRA |
 | [shopify-ai-art-personalization-app](https://github.com/digitalinnovator/shopify-ai-art-personalization-app) | Shopify app for AI-personalized products — customers upload a photo, preview AI art and buy. Supports OpenAI GPT Image, Gemini, FLUX and fal.ai |
