@@ -3,11 +3,7 @@
 <h3 align="center">AI Engineer & AI Architect — I build AI systems that ship to production</h3>
 
 <p align="center">
-  <a href="https://amarsohail.com"><img src="https://img.shields.io/badge/Website-amarsohail.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/amarsohail/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://calendly.com/amarsohail/30min"><img src="https://img.shields.io/badge/Book%20a%20call-30%20min-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a call" /></a>
   <a href="https://www.upwork.com/freelancers/~015d7cf2e8f12d4401"><img src="https://img.shields.io/badge/Upwork-Hire%20me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
-  <a href="mailto:dr.amar.sohail@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -116,8 +112,6 @@ My work spans generative and agentic AI, model training on custom datasets, comp
 - **[Giisty](https://play.google.com/store/apps/details?id=com.tuitify&hl=en)** — knowledge platform running 200+ containerised microservices with AI-assisted knowledge retrieval *(Engineering Lead)*
 - **[HYVES](https://www.hyves.co/)** — social commerce platform with LLM-powered recommendations and RAG search *(Tech Lead)*
 
-More on [amarsohail.com](https://amarsohail.com/#work).
-
 ## Experience
 
 | Period | Role | Where |
@@ -137,13 +131,11 @@ More on [amarsohail.com](https://amarsohail.com/#work).
 
 ## Writing
 
-- [Scaling AI Content Pipelines with ComfyUI: LoRA Training, Voice Cloning & Video Generation](https://amarsohail.com/blog/scaling-ai-content-pipelines-with-comfyui)
-- [Building Production-Ready RAG Pipelines with LangChain](https://amarsohail.com/blog/building-production-ready-rag-pipelines-with-langchain)
-- [Kubernetes at Scale: Lessons from Running 200+ Microservices](https://amarsohail.com/blog/kubernetes-at-scale-lessons-from-running-200-plus-microservices)
-- [Fine-Tuning LLMs for Domain-Specific Applications](https://amarsohail.com/blog/fine-tuning-llms-for-domain-specific-applications)
-- [Agentic AI Systems: From Concept to Production](https://amarsohail.com/blog/agentic-ai-systems-from-concept-to-production)
-
-All posts on the [blog](https://amarsohail.com/blog).
+- Scaling AI Content Pipelines with ComfyUI: LoRA Training, Voice Cloning & Video Generation
+- Building Production-Ready RAG Pipelines with LangChain
+- Kubernetes at Scale: Lessons from Running 200+ Microservices
+- Fine-Tuning LLMs for Domain-Specific Applications
+- Agentic AI Systems: From Concept to Production
 
 ## Currently exploring
 
@@ -153,5 +145,5 @@ Agentic AI & multi-agent orchestration · Video generation models · Claude Code
 
 <p align="center">
   <b>Have a project in mind?</b><br />
-  <a href="https://calendly.com/amarsohail/30min">Book a free 30-minute call</a> · <a href="https://amarsohail.com">amarsohail.com</a> · <a href="mailto:dr.amar.sohail@gmail.com">dr.amar.sohail@gmail.com</a>
+  <a href="https://www.upwork.com/freelancers/~015d7cf2e8f12d4401">Hire me on Upwork</a>
 </p>
