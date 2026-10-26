@@ -3,7 +3,7 @@
 <h3 align="center">AI Engineer & AI Architect — I build AI systems that ship to production</h3>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~015d7cf2e8f12d4401"><img src="https://img.shields.io/badge/Upwork-Hire%20me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="https://www.upwork.com/freelancers/~015d7cf2e8f12d4401"><img src="assets/hire-me-upwork.svg" width="100%" alt="Hire me on Upwork: available for new AI projects" /></a>
 </p>
 
 ---
@@ -144,6 +144,6 @@ Agentic AI & multi-agent orchestration · Video generation models · Claude Code
 ---
 
 <p align="center">
-  <b>Have a project in mind?</b><br />
-  <a href="https://www.upwork.com/freelancers/~015d7cf2e8f12d4401">Hire me on Upwork</a>
+  <b>Have a project in mind?</b><br /><br />
+  <a href="https://www.upwork.com/freelancers/~015d7cf2e8f12d4401"><img src="assets/hire-me-upwork.svg" width="100%" alt="Hire me on Upwork: available for new AI projects" /></a>
 </p>
