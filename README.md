@@ -95,6 +95,7 @@ My work spans generative and agentic AI, model training on custom datasets, comp
 
 | Project | What it is |
 | --- | --- |
+| [tuplegate](https://github.com/digitalinnovator/tuplegate) | Permission-aware retrieval for RAG — syncs Google Drive, GitHub and Confluence permissions into OpenFGA or SpiceDB and enforces them inside pgvector or Qdrant search, with a leak-rate benchmark across filtering strategies and measured revocation lag |
 | [pinbench](https://github.com/digitalinnovator/pinbench) | Regression monitor for coding agents — re-runs your own tasks against pinned versions of Claude Code or Codex and flags when an update makes the agent worse or pricier, with anytime-valid statistics, cost intervals and a hard spending ledger |
 | [comfyui-production-workflows](https://github.com/digitalinnovator/comfyui-production-workflows) | 12 production-tested ComfyUI workflows — AI UGC videos, trend copying, character generation, music, voice cloning and more |
 | [comfyui-content-factory](https://github.com/digitalinnovator/comfyui-content-factory) | Autonomous AI content pipeline — consistent characters, pose-controlled scenes and production-ready video assets using ComfyUI, ControlNet, IPAdapter and multi-LoRA |
